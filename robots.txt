@@ -1,0 +1,7 @@
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /categories/
+
+Sitemap: https://lionroarrr.github.io/sitemap.xml
+Sitemap: https://lionroarrr.github.io/baidusitemap.xml
